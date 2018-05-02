@@ -2,6 +2,7 @@
 Student's abstracts on Project management theme 
 ### HOW TO 
 Firstly you have to [download and install](https://git-scm.com/downloads) GIT
+
 You may interact with github using command line or [GUI](https://desktop.github.com/) 
 ##### Command line commands 
 0) navigate to folder
