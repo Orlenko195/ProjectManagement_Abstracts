@@ -23,4 +23,4 @@ You may interact with github using command line or [GUI](https://desktop.github.
 ### PROJECT STRUCTURE 
 **ProjectManagement_Abstracts/** - root folder 
 
-**ProjectManagement_Abstracts/Your_Sername/** - folder for your files 
+**ProjectManagement_Abstracts/Your_Surname/** - folder for your files 
